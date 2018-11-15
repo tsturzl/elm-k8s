@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/user/project.git",
+    "version": "1.10.9",
+    "summary": "K8s client",
+    "repository": "https://github.com/tsturzl/elm-k8s.git",
     "license": "BSD3",
     "source-directories": [
         "src"
